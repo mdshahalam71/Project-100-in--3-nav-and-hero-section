@@ -130,6 +130,10 @@
    padding: 20px;
    box-shadow: 0 0 20px #33333326;
    border-radius: 5px;
+   transition: 1s;
+ }
+ .item:hover{
+   margin-top: -10px;
  }
  .item-number{
    width: 10%;
